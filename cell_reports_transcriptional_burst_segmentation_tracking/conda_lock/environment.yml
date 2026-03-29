@@ -1,0 +1,15 @@
+name: napari-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - napari
+  - pyqt
+  - spyder-kernels=2.5
+  - spyder
+  - seaborn
+  - conda-forge::xmltodict
+  - trackpy
+  - pims
+prefix: C:\Users\cdsyou\AppData\Local\anaconda3\envs\napari-env
